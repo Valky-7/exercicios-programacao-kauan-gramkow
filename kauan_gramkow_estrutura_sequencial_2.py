@@ -2,4 +2,4 @@
 # Desenvolvido por: Kauan Gramkow
 
 numero1 = int(input("Digite um valor: "))
-print(f"O número digitado foi: {numero1}")
+print(f"O número informado foi: {numero1}")
