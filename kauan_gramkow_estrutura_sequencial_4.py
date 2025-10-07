@@ -1,4 +1,4 @@
-# Faça um programa que peça dois números e imprima a soma:
+# Faça um programa que peça as 4 notas bimestrais e mostre a média
 # Desenvolvido por: Kauan Gramkow
 
 n1 = float(input("Digite a sua primeira nota: "))

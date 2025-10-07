@@ -1,4 +1,4 @@
-# Faça um programa que peça dois números e imprima a soma:
+# Faça um programa que converta metros para centímetros
 # Desenvolvido por: Kauan Gramkow
 
 m = float(input("Digite o valor em metros para converter para centímetros: "))
