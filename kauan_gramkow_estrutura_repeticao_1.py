@@ -10,5 +10,3 @@ while True:
     else:
         print("Cadastro realizado com sucesso!")
         break
-
-
